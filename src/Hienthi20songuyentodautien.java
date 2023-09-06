@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Hienthi20songuyentodautien {
     public static void main(String[] args) {
        int a=1;
